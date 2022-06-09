@@ -54,13 +54,13 @@ html .goTop {
 }
 
 .headerShop {
-  background-image: linear-gradient(to left, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.4)), url("../../img/porsche-gb8aeb05db_1920.jpg");
+  background-image: linear-gradient(to left, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.4)), url("../img/porsche-gb8aeb05db_1920.jpg");
   background-size: cover;
   background-position: center;
 }
 
 .bodyShopping {
-  background-image: linear-gradient(to left, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.4)), url("../../img/background.jpg");
+  background-image: linear-gradient(to left, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.4)), url("../img/background.jpg");
   background-size: cover;
   background-position: center;
   min-height: 100vh;
@@ -293,7 +293,7 @@ html .goTop {
 }
 .main .parallax {
   margin-bottom: 2em;
-  background-image: linear-gradient(to left, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.4)), url("../../img/mechanic.jpg");
+  background-image: linear-gradient(to left, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.4)), url("../img/mechanic.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -629,7 +629,7 @@ html .goTop {
 
 footer {
   width: 100%;
-  background-image: linear-gradient(to left, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.4)), url("../../img/separador.jpg");
+  background-image: linear-gradient(to left, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.4)), url("../img/separador.jpg");
   background-size: cover;
   background-position: center;
 }
